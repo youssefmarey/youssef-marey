@@ -9,7 +9,7 @@ const Timeline = () => {
         <h3>Work History</h3>
         <p>
           Below you will find a summary of my past employment experience
-          additionally.if you require. you can <a href="#" className="border-b hover:border-emerald-600 hover:text-emerald-600 transition" >Download my resume</a>
+          additionally.if you require. you can <a href="https://youssefmarey.github.io/youssef-mohamed-marey-cv/" target="_blank" className="border-b hover:border-emerald-600 hover:text-emerald-600 transition" >Download my resume</a>
         </p>
       </div>
       {/* Wrapper */}

@@ -10,15 +10,17 @@ const About = () => {
         <div>
           <h2 className="section-title mb-3.5">About Me</h2>
           <p>
-            I'm a highly skilled full-stack engineer with of experience in
-            building web applications. On this page,you can learn more about my
-            knowledge stack and my previous work experience.
+            Enthusiastic Front-End Developer transitioning into Full Stack
+            Development. Skilled in modern frameworks like React.js and
+            TailwindCSS, and currently learning PHP & MySQL to build dynamic,
+            full-stack web applications. Passionate about writing clean,
+            maintainable code and continuously improving development skills.
           </p>
         </div>
         {/* wrapper */}
         <div className="border mt-8 px-8 py-4 border-zinc-200 dark:border-zinc-900 rounded-lg">
-            <Skils />
-            <Timeline />
+          <Skils />
+          <Timeline />
         </div>
       </div>
     </section>
